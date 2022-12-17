@@ -1,0 +1,23 @@
+{
+  "name": "ajs-platforms-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theart84/ajs-platforms-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theart84/ajs-platforms-2/issues"
+  },
+  "homepage": "https://github.com/theart84/ajs-platforms-2#readme",
+  "dependencies": {
+    "@theart84/ajs-platforms": "^1.0.0"
+  }
+}
